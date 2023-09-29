@@ -11,7 +11,7 @@
    {
      customerId: 2,
      customerName: "Arun",
-     roomNameame: "Meeting Room B",
+     roomName: "Meeting Room B",
      date: "2023-09-30",
      startTime: "02:00 PM",
      endTime: "04:00 PM",
@@ -20,7 +20,7 @@
    {
      customerId: 3,
      customerName: "Babu",
-     roomNameame: "Boardroom C",
+     roomName: "Boardroom C",
      date: "2023-10-01",
      startTime: "09:00 AM",
      endTime: "11:00 AM",
